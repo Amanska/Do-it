@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48.203" height="42.043" viewBox="0 0 48.203 42.043">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <path id="Icon_feather-heart_red" data-name="Icon feather-heart red" class="cls-1" d="M46.81,8.214a12.683,12.683,0,0,0-17.941,0l-2.444,2.444L23.98,8.214A12.686,12.686,0,1,0,6.039,26.155L8.483,28.6,26.424,46.541,44.365,28.6l2.444-2.444a12.683,12.683,0,0,0,0-17.941Z" transform="translate(-2.323 -4.497)"/>
+</svg>

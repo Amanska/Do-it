@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54.203" height="48.043" viewBox="0 0 54.203 48.043">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <path id="Icon_feather-heart" data-name="Icon feather-heart" class="cls-1" d="M46.81,8.214a12.683,12.683,0,0,0-17.941,0l-2.444,2.444L23.98,8.214A12.686,12.686,0,1,0,6.039,26.155L8.483,28.6,26.424,46.541,44.365,28.6l2.444-2.444a12.683,12.683,0,0,0,0-17.941Z" transform="translate(0.677 -1.497)"/>
+</svg>

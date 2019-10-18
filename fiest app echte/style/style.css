@@ -1,0 +1,225 @@
+/* font */
+@font-face {
+	font-family: 'Verela';
+	src: url('../font/VarelaRound-Regular.ttf');
+	font-style: normal;
+	font-weight: 100;
+}
+
+*
+{
+	font-family: 'Verela';
+	box-sizing: border-box;
+	margin: 0;
+}
+
+body
+{ 
+	font-family: source-sans-pro, sans-serif;
+	font-style: normal;
+	font-weight: 200; 
+}
+
+/* navigation */
+nav ul {
+	background-color: white;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:center;
+
+}
+nav li a {
+	display: block;
+	padding: 1em;
+	margin: 0.5em;
+	text-align: center;
+	text-decoration: none;
+}
+nav a:hover {
+	background:red;
+	color: black;
+}
+/* styling links */
+a:link {
+	color: black;
+}
+a:visited {
+	color:red;
+}
+a:hover {
+	color:#8CBEA7;
+}
+
+a:active {
+	color:darkcyan;
+}
+/* button test */
+.button {
+	text-decoration: none;
+	font-size: 0.8em;
+	background-color: white;
+	color: red;
+	padding: 40px 50px 40px 50px;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #333333;
+	border-bottom: 1px solid #333333;
+	border-left: 1px solid #CCCCCC;
+	display: flex;
+	flex-wrap: wrap;
+	text-align: justify;
+	max-width: 60%;
+	min-width: 5em;
+	margin: 6em;
+	overflow: hidden;
+}
+.button1 {
+	text-decoration: none;
+	font-size: 2em;
+	background-color: white;
+	color: black;
+	padding: 20px, 10px, 20px, 10px;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #333333;
+	border-bottom: 1px solid #333333;
+	border-left: 1px solid #CCCCCC;
+/*	display: flex;*/	
+	flex-wrap: wrap;
+	text-align: justify;
+	overflow: hidden;
+}
+.button2 {
+	text-decoration: none;
+	font-size: 0.8em;
+	background-color: white;
+	color: red;
+	width: 100%;
+	height: 100%;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #333333;
+	border-bottom: 1px solid #333333;
+	border-left: 1px solid #CCCCCC;
+	align-content: flex-start;
+	overflow: hidden;
+}
+
+.button3 {
+	position: absolute;
+    top: 70%;
+	text-decoration: none;
+	font-size: 3.5em;
+	background-color: white;
+	color: red;
+	width: 100%;
+	height: 20%;
+	padding: 0.5em 0;
+	/*margin: 1em;*/
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #333333;
+	border-bottom: 1px solid #333333;
+	border-left: 1px solid #CCCCCC;
+	overflow: hidden;
+	text-align: center;
+}
+/* text */
+
+p,h1,h2,h3,h4,h5,h6 {	
+	color: white;
+	border-left: 10px;
+	border-bottom: 5px;
+	border-right: 10px;
+	border-top: 5px;
+	text-align: center;
+}
+
+p {
+	position: bottom;
+	background-color: black;
+	padding: 2em;
+}
+
+
+body{
+	background-image: url(../foto/achtergrond.png);
+	background-size: 30em ;
+	background-color: black;
+}
+
+.tours{
+	margin: 1em;
+	display: grid;
+	grid-template-columns: 50% 50%;
+	height: 100vh;
+	grid-gap: 1em;
+}
+
+footer 
+{
+	position: fixed;
+	 left: 0;
+	 bottom: 0;
+	 width: 100%;
+	 background-color: red;
+	 color: white;
+	 text-align: center;
+	}
+
+/*#agenda
+{
+width: 20em; 
+margin: 1.2em;
+margin-top: 7em;
+}*/
+
+.agendanotificatie {
+	position:relative;
+}
+
+.agendanotificatie img {
+	position: absolute;
+	max-width: 100%;
+	margin-top: 7em;
+}
+
+.agendanotificatie p {
+	position: absolute;
+	top: 17em;
+}
+
+#schilderij 
+{
+	width: 20em; 
+margin: 1.2em;
+margin-top: 7em;
+}
+
+h3 
+{
+	background-color: black;
+	padding: 2em;
+	margin-top: 7em;
+}
+
+.buttontonight {
+	text-decoration: none;
+	font-size: 0.8em;
+	background-image: url(../foto/bar.png);
+	background-position: center;
+	background-size: cover;
+	color: red;
+	padding: 40px 50px 40px 50px;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #333333;
+	border-bottom: 1px solid #333333;
+	border-left: 1px solid #CCCCCC;
+	display: flex;
+	flex-wrap: wrap;
+	text-align: justify;
+	max-width: 60%;
+	min-width: 5em;
+	margin: 6em;
+	overflow: hidden;
+}

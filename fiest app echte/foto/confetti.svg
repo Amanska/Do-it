@@ -1,0 +1,215 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1101.14" height="1856.079" viewBox="0 0 1101.14 1856.079">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.78;
+      }
+
+      .cls-13, .cls-15, .cls-18, .cls-2, .cls-25, .cls-28, .cls-33, .cls-36 {
+        fill: #9400d3;
+      }
+
+      .cls-2 {
+        opacity: 0.9;
+      }
+
+      .cls-17, .cls-3, .cls-32, .cls-4 {
+        fill: #ff0;
+      }
+
+      .cls-3 {
+        opacity: 0.804;
+      }
+
+      .cls-4 {
+        opacity: 0.934;
+      }
+
+      .cls-12, .cls-14, .cls-20, .cls-21, .cls-22, .cls-31, .cls-37, .cls-5 {
+        fill: #ff7f00;
+      }
+
+      .cls-5 {
+        opacity: 0.965;
+      }
+
+      .cls-11, .cls-19, .cls-23, .cls-29, .cls-35, .cls-6, .cls-7, .cls-8 {
+        fill: blue;
+      }
+
+      .cls-6 {
+        opacity: 0.846;
+      }
+
+      .cls-7 {
+        opacity: 0.817;
+      }
+
+      .cls-8 {
+        opacity: 0.844;
+      }
+
+      .cls-10, .cls-26, .cls-34, .cls-9 {
+        fill: lime;
+      }
+
+      .cls-9 {
+        opacity: 0.993;
+      }
+
+      .cls-10 {
+        opacity: 0.934;
+      }
+
+      .cls-11 {
+        opacity: 0.849;
+      }
+
+      .cls-12 {
+        opacity: 0.918;
+      }
+
+      .cls-13 {
+        opacity: 0.944;
+      }
+
+      .cls-14 {
+        opacity: 0.81;
+      }
+
+      .cls-15 {
+        opacity: 0.869;
+      }
+
+      .cls-16, .cls-24, .cls-27, .cls-30 {
+        fill: red;
+      }
+
+      .cls-16 {
+        opacity: 0.986;
+      }
+
+      .cls-17 {
+        opacity: 0.916;
+      }
+
+      .cls-18 {
+        opacity: 0.963;
+      }
+
+      .cls-19 {
+        opacity: 0.811;
+      }
+
+      .cls-20 {
+        opacity: 0.931;
+      }
+
+      .cls-21 {
+        opacity: 0.871;
+      }
+
+      .cls-22 {
+        opacity: 0.825;
+      }
+
+      .cls-23 {
+        opacity: 0.954;
+      }
+
+      .cls-24 {
+        opacity: 0.813;
+      }
+
+      .cls-25 {
+        opacity: 0.937;
+      }
+
+      .cls-26 {
+        opacity: 0.812;
+      }
+
+      .cls-27 {
+        opacity: 0.943;
+      }
+
+      .cls-28 {
+        opacity: 0.984;
+      }
+
+      .cls-29 {
+        opacity: 0.996;
+      }
+
+      .cls-30 {
+        opacity: 0.822;
+      }
+
+      .cls-31 {
+        opacity: 0.947;
+      }
+
+      .cls-32 {
+        opacity: 0.918;
+      }
+
+      .cls-33 {
+        opacity: 0.824;
+      }
+
+      .cls-34 {
+        opacity: 0.822;
+      }
+
+      .cls-35 {
+        opacity: 0.939;
+      }
+
+      .cls-36 {
+        opacity: 0.96;
+      }
+
+      .cls-37 {
+        opacity: 0.858;
+      }
+    </style>
+  </defs>
+  <g id="Group_6" data-name="Group 6" class="cls-1" transform="translate(-59.042 -95.653)">
+    <path id="Polygon_37" data-name="Polygon 37" class="cls-2" d="M29.787,0,59.574,51.451H0Z" transform="matrix(-0.883, -0.469, 0.469, -0.883, 1092.382, 1771.559)"/>
+    <path id="Polygon_35" data-name="Polygon 35" class="cls-3" d="M32.718,0,65.435,56.512H0Z" transform="translate(1113.409 1313.69) rotate(177)"/>
+    <path id="Polygon_34" data-name="Polygon 34" class="cls-4" d="M38.512,0,77.025,66.521H0Z" transform="matrix(-0.602, -0.799, 0.799, -0.602, 971.654, 831.087)"/>
+    <path id="Polygon_33" data-name="Polygon 33" class="cls-5" d="M30.378,0,60.756,52.471H0Z" transform="translate(954.464 662.864) rotate(-124)"/>
+    <path id="Polygon_32" data-name="Polygon 32" class="cls-6" d="M37.5,0l37.5,64.764H0Z" transform="translate(1149.57 144.555) rotate(135)"/>
+    <path id="Polygon_31" data-name="Polygon 31" class="cls-7" d="M34.624,0,69.248,59.805H0Z" transform="translate(852.771 1617.028) rotate(47)"/>
+    <path id="Polygon_30" data-name="Polygon 30" class="cls-8" d="M36.669,0,73.338,63.337H0Z" transform="matrix(-0.105, -0.995, 0.995, -0.105, 731.699, 1393.4)"/>
+    <path id="Polygon_29" data-name="Polygon 29" class="cls-9" d="M34.543,0,69.085,59.665H0Z" transform="translate(918.112 1044.089) rotate(77)"/>
+    <path id="Polygon_28" data-name="Polygon 28" class="cls-10" d="M43.469,0,86.937,75.082H0Z" transform="translate(887.227 1007.871) rotate(-110)"/>
+    <path id="Polygon_27" data-name="Polygon 27" class="cls-11" d="M26.073,0,52.146,45.035H0Z" transform="translate(947.755 462.827) rotate(163)"/>
+    <path id="Polygon_26" data-name="Polygon 26" class="cls-12" d="M39.086,0,78.172,67.512H0Z" transform="matrix(0.951, 0.309, -0.309, 0.951, 816.93, 124.185)"/>
+    <path id="Polygon_25" data-name="Polygon 25" class="cls-13" d="M24.74,0l24.74,42.732H0Z" transform="translate(797.775 1795.462) rotate(131)"/>
+    <path id="Polygon_24" data-name="Polygon 24" class="cls-14" d="M36.13,0,72.26,62.406H0Z" transform="translate(580.125 1468.784) rotate(-99)"/>
+    <path id="Polygon_23" data-name="Polygon 23" class="cls-15" d="M32.231,0,64.462,55.672H0Z" transform="translate(664.583 1093.988) rotate(48)"/>
+    <path id="Polygon_22" data-name="Polygon 22" class="cls-16" d="M33.864,0,67.727,58.492H0Z" transform="translate(639.396 980.47) rotate(164)"/>
+    <path id="Polygon_21" data-name="Polygon 21" class="cls-17" d="M22.4,0,44.8,38.694H0Z" transform="translate(713.172 687.929) rotate(-121)"/>
+    <path id="Polygon_20" data-name="Polygon 20" class="cls-18" d="M27.418,0,54.837,47.359H0Z" transform="translate(781.662 278.376) rotate(-171)"/>
+    <path id="Polygon_19" data-name="Polygon 19" class="cls-19" d="M32.535,0,65.069,56.2H0Z" transform="matrix(-0.208, -0.978, 0.978, -0.208, 503.908, 1908.691)"/>
+    <path id="Polygon_18" data-name="Polygon 18" class="cls-20" d="M24.987,0,49.975,43.16H0Z" transform="translate(429.979 1372.778) rotate(74)"/>
+    <path id="Polygon_17" data-name="Polygon 17" class="cls-21" d="M23.615,0,47.229,40.789H0Z" transform="matrix(1, 0.017, -0.017, 1, 497.599, 1234.995)"/>
+    <path id="Polygon_16" data-name="Polygon 16" class="cls-22" d="M30.585,0,61.171,52.829H0Z" transform="matrix(-0.809, -0.588, 0.588, -0.809, 564.466, 748.136)"/>
+    <path id="Polygon_15" data-name="Polygon 15" class="cls-23" d="M23.095,0,46.19,39.891H0Z" transform="translate(485.057 331.004) rotate(56)"/>
+    <path id="Polygon_14" data-name="Polygon 14" class="cls-24" d="M39.791,0,79.581,68.729H0Z" transform="translate(453.088 225.941) rotate(-107)"/>
+    <path id="Polygon_13" data-name="Polygon 13" class="cls-25" d="M30.954,0,61.908,53.466H0Z" transform="matrix(0.999, 0.035, -0.035, 0.999, 183.558, 1896.139)"/>
+    <path id="Polygon_12" data-name="Polygon 12" class="cls-26" d="M40.788,0,81.577,70.453H0Z" transform="translate(426.115 1501.627) rotate(76)"/>
+    <path id="Polygon_11" data-name="Polygon 11" class="cls-27" d="M28.083,0,56.166,48.507H0Z" transform="matrix(-0.999, -0.035, 0.035, -0.999, 317.371, 1238.912)"/>
+    <path id="Polygon_10" data-name="Polygon 10" class="cls-28" d="M37.01,0l37.01,63.927H0Z" transform="matrix(0.848, 0.53, -0.53, 0.848, 204.08, 919.545)"/>
+    <path id="Polygon_9" data-name="Polygon 9" class="cls-29" d="M28.137,0,56.274,48.6H0Z" transform="matrix(-0.602, 0.799, -0.799, -0.602, 426.406, 399.227)"/>
+    <path id="Polygon_8" data-name="Polygon 8" class="cls-30" d="M28.054,0,56.108,48.457H0Z" transform="translate(373.494 164.48) rotate(-109)"/>
+    <path id="Polygon_7" data-name="Polygon 7" class="cls-31" d="M32.02,0,64.04,55.308H0Z" transform="matrix(0.259, 0.966, -0.966, 0.259, 112.466, 1800.689)"/>
+    <path id="Polygon_6" data-name="Polygon 6" class="cls-32" d="M36.028,0,72.057,62.231H0Z" transform="translate(111.46 1595.271) rotate(-106)"/>
+    <path id="Polygon_5" data-name="Polygon 5" class="cls-33" d="M24.9,0,49.8,43.012H0Z" transform="translate(181.202 1076.065) rotate(-99)"/>
+    <path id="Polygon_4" data-name="Polygon 4" class="cls-34" d="M36.176,0,72.351,62.485H0Z" transform="translate(163.432 887.286) rotate(-173)"/>
+    <path id="Polygon_3" data-name="Polygon 3" class="cls-35" d="M24.111,0,48.223,41.647H0Z" transform="matrix(-0.788, 0.616, -0.616, -0.788, 149.516, 408.774)"/>
+    <path id="Polygon_2" data-name="Polygon 2" class="cls-36" d="M43.887,0,87.774,75.8H0Z" transform="translate(210.632 338.198) rotate(155)"/>
+    <path id="Polygon_36" data-name="Polygon 36" class="cls-37" d="M30.114,0,60.228,52.015H0Z" transform="matrix(0.391, 0.921, -0.921, 0.391, 1136.649, 1357.423)"/>
+  </g>
+</svg>
